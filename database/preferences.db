@@ -1,0 +1,3 @@
+{"Id":4,"KOTGenerate":true,"EnforceCustomerNo":false,"QuickOrder":true,"FreeQuantity":true,"ShowUpcategory":true,"ShowTaxonBill":true,"AdminOnlyCancel":true,"DineIn":true,"TakeAway":false,"AdvanceOrder":false,"OnlineOrder":true,"Delivery":true,"CompanyId":3,"StoreId":4,"customeraddressinbill":false,"showchildcategory":false,"_id":"81X58Am47HJnjI5f"}
+{"$$deleted":true,"_id":"81X58Am47HJnjI5f"}
+{"Id":5,"KOTGenerate":true,"EnforceCustomerNo":false,"QuickOrder":true,"FreeQuantity":true,"ShowUpcategory":true,"ShowTaxonBill":true,"AdminOnlyCancel":false,"DineIn":true,"TakeAway":true,"AdvanceOrder":true,"OnlineOrder":true,"Delivery":false,"CompanyId":3,"StoreId":22,"customeraddressinbill":false,"showchildcategory":true,"_id":"IIsQzCKBWsqNV4Tj"}

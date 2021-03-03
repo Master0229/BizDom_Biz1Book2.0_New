@@ -1,0 +1,9 @@
+{"Id":2,"Printer":"[]","KOTGroupId":4,"StoreId":4,"CompanyId":3,"Description":"Tea","_id":"aOH22hprtGiEoxdN"}
+{"Id":29,"Printer":"[]","KOTGroupId":5,"StoreId":4,"CompanyId":3,"Description":"South Indian","_id":"eLcYY0vFpw7MlVnM"}
+{"Id":56,"Printer":"[]","KOTGroupId":6,"StoreId":4,"CompanyId":3,"Description":"Chinese","_id":"1wEmHqhiyYvmmvKp"}
+{"$$deleted":true,"_id":"1wEmHqhiyYvmmvKp"}
+{"$$deleted":true,"_id":"aOH22hprtGiEoxdN"}
+{"$$deleted":true,"_id":"eLcYY0vFpw7MlVnM"}
+{"Id":3,"Printer":"[\"EPSON TM-T82X Receipt\"]","KOTGroupId":4,"StoreId":22,"CompanyId":3,"Description":"Tea","_id":"9i34KpncHgevEyMf"}
+{"Id":30,"Printer":"[\"EPSON TM-T82 ReceiptSA4\",\"HP LaserJet Pro MFP M126nw\"]","KOTGroupId":5,"StoreId":22,"CompanyId":3,"Description":"South Indian","_id":"kMCDmtPgpMQ9lnNP"}
+{"Id":57,"Printer":"[\"EPSON TM-T82 ReceiptSA4\",\"HP LaserJet Pro MFP M126nw\"]","KOTGroupId":6,"StoreId":22,"CompanyId":3,"Description":"Chinese","_id":"HRW4J4aKGJLXd9rG"}

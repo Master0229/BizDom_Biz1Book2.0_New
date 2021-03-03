@@ -1,0 +1,216 @@
+{"Id":24,"Category":"CAKES","ParentId":0,"_id":"k5jef2bctfStsJmI"}
+{"Id":25,"Category":"PASTRY","ParentId":24,"_id":"LzDaWcJSh7VWYl3h"}
+{"Id":26,"Category":"BIRTHDAY CAKES","ParentId":24,"_id":"pH5OjmcMOKN4oBGe"}
+{"Id":27,"Category":"CADBURY","ParentId":0,"_id":"kkxWol3jTD9g7V2M"}
+{"Id":28,"Category":"CHOCOLATES DEL","ParentId":27,"_id":"LRtNfhlQ7Y6qbXlM"}
+{"Id":29,"Category":"SWEETS","ParentId":0,"_id":"TR3JAT2z4v7baivn"}
+{"Id":30,"Category":"MILK SWEETS","ParentId":29,"_id":"8qFu6J0NIOO1Min2"}
+{"Id":31,"Category":"OTHER SWEETS","ParentId":29,"_id":"wyzHjOCom8RwEySV"}
+{"Id":32,"Category":"GHEE SWEETS","ParentId":29,"_id":"YqQMwISpbw2douBi"}
+{"Id":33,"Category":"BENGALI SWEETS","ParentId":29,"_id":"naN0jjoeniKXtDKO"}
+{"Id":34,"Category":"KAJU SWEETS","ParentId":29,"_id":"KvES7Z397viFQB1Q"}
+{"Id":35,"Category":"KARUPATTI SWEETS","ParentId":29,"_id":"9cj0J9zZShy64Igt"}
+{"Id":36,"Category":"NATTU SAKKARAI SWEETS","ParentId":29,"_id":"91inEfNbYX0IM1kP"}
+{"Id":37,"Category":"SAVORIES","ParentId":0,"_id":"bkqhVIj0rwZv6Fa7"}
+{"Id":38,"Category":"OTHER SAVORIES","ParentId":37,"_id":"LgyGOxJm0fmvssar"}
+{"Id":39,"Category":"MURUKKU","ParentId":37,"_id":"3u7b1I2NGnL6z6zd"}
+{"Id":40,"Category":"CHIPS","ParentId":37,"_id":"kpDS1L2Yot5hk1iQ"}
+{"Id":43,"Category":"BAKERY","ParentId":0,"_id":"H3j2u5I3waCJ6H7A"}
+{"Id":45,"Category":"BREAD","ParentId":43,"_id":"tL5pHpMYGbh54b3F"}
+{"Id":46,"Category":"COOKIES","ParentId":43,"_id":"BwYLqi94Vq1BOQeD"}
+{"Id":47,"Category":"STORE","ParentId":0,"_id":"Q2ZhTzaM9Ls0RIm7"}
+{"Id":48,"Category":"ACCESSORIES","ParentId":47,"_id":"LdGauWsofNxGBGIU"}
+{"Id":49,"Category":"RAW SPL ","ParentId":47,"_id":"B2wN39iF2L3MygxJ"}
+{"Id":50,"Category":"TEA SPL","ParentId":0,"_id":"QFLevQK5tRRbkhEC"}
+{"Id":56,"Category":"DESSERTS","ParentId":0,"_id":"eOP3p7e2z284Km54"}
+{"Id":57,"Category":"ICE CREAMS","ParentId":56,"_id":"16EUoNjSY61BNQDG"}
+{"Id":63,"Category":"CHOCOLATES","ParentId":0,"_id":"4AnThYjZa56uLezJ"}
+{"Id":64,"Category":"HOME MADE CHOCOLATE","ParentId":63,"_id":"JUUiMqrlwpRHfhWU"}
+{"Id":67,"Category":"OTHERS (50%)","ParentId":29,"_id":"9O0jrBnfNhctfrp5"}
+{"Id":98,"Category":"OTHER SWEETS 1 PCS","ParentId":29,"_id":"k0k9lPUbjgvmvtw6"}
+{"Id":123,"Category":"PACKED SAVOURIES","ParentId":37,"_id":"XvFmCKto6vV52jOm"}
+{"Id":136,"Category":"Cakes 1 Kg + 1/2 Kg Extra Free","ParentId":0,"_id":"KjehP74zaHgfgBHB"}
+{"Id":137,"Category":"Fresh Cream Cakes 1 Kg + (1/2 Kg Free)","ParentId":136,"_id":"DToAfk2CpxWF8Zhb"}
+{"Id":138,"Category":"Dry Fruits Spl Cakes 1 Kg + (1/2 Kg Free)","ParentId":136,"_id":"zwapVnmSaRfdfbVP"}
+{"Id":139,"Category":"Fresh Cream Cakes 1/2 Kg","ParentId":270,"_id":"2x4yZe7tEXGpUAtF"}
+{"Id":140,"Category":"Dry Fruits Spl Cakes 1/2 Kg","ParentId":270,"_id":"pX77vEQgNozNwAt2"}
+{"Id":141,"Category":"Pastries and Dry Cakes","ParentId":0,"_id":"Aq2FuiapWdszTi0w"}
+{"Id":142,"Category":"Pastry","ParentId":141,"_id":"dJnmgmFYNtPLlaNz"}
+{"Id":143,"Category":"Dry Cakes 250 Grams","ParentId":141,"_id":"eB8qa0MqEdb0syIl"}
+{"Id":144,"Category":"Sweets","ParentId":0,"_id":"w0cQkERao5OUvp8p"}
+{"Id":145,"Category":"Ghee And Milk Sweets","ParentId":144,"_id":"XPzl9hbBuKl89bSU"}
+{"Id":146,"Category":"Traditional Sweets","ParentId":144,"_id":"Ahe54RlTxRWPsjl5"}
+{"Id":147,"Category":"Bengali Sweets","ParentId":144,"_id":"UXUc7XjlCiq6rrK7"}
+{"Id":148,"Category":"Savories","ParentId":0,"_id":"eXzSlQBCyVWOczDX"}
+{"Id":149,"Category":"Chips","ParentId":148,"_id":"5t610lpuJnYqUPvz"}
+{"Id":150,"Category":"Murukku","ParentId":148,"_id":"cComo8Q7KNtBqHyU"}
+{"Id":151,"Category":"Other Savories","ParentId":148,"_id":"ouq0AwKMt9VO0kD1"}
+{"Id":152,"Category":"Combos","ParentId":0,"_id":"9KZBSHqRU1TFzEij"}
+{"Id":184,"Category":"Bread","ParentId":141,"_id":"gv9GyzPKnFOM264w"}
+{"Id":270,"Category":"Cakes 1/2 Kg","ParentId":0,"_id":"DeG3WuYfes2jBQpo"}
+{"Id":292,"Category":"FB Combos","ParentId":152,"_id":"r411d6XZow54pJ6N"}
+{"Id":297,"Category":"Eggless Cakes 1 Kg + (1/2 Kg Free)","ParentId":299,"_id":"2P3hryy8c1QtkLpf"}
+{"Id":298,"Category":"Eggless Cakes 1/2 Kg ","ParentId":299,"_id":"yJBTxmcWYaVStVAI"}
+{"Id":299,"Category":"Eggless Cakes ","ParentId":0,"_id":"gmuazM9rePz0A8wb"}
+{"Id":341,"Category":"Other Baking Products  ","ParentId":141,"_id":"uI9VuE6AQRukaY5C"}
+{"Id":558,"Category":"FB POS Cakes ","ParentId":0,"_id":"mZUIwPxfZxQDEWJn"}
+{"Id":559,"Category":"FB Fresh Cream Cakes","ParentId":558,"_id":"bwqjp2tgS9btPtZO"}
+{"Id":560,"Category":"FB Nutty Spl Blast Cakes ","ParentId":558,"_id":"tOdeCAXOodTYrTys"}
+{"Id":845,"Category":"Valentine Cakes ","ParentId":1496,"_id":"Xi1sDBu5UZIvRBEf"}
+{"Id":846,"Category":"Birthday","ParentId":1496,"_id":"9fQu98juwCrKuKn1"}
+{"Id":847,"Category":"Kids Cake ","ParentId":1496,"_id":"i18xpTw9niT5JDim"}
+{"Id":848,"Category":"Occassions ","ParentId":1496,"_id":"4iDgG7gNOqjQALk6"}
+{"Id":849,"Category":"Designer ","ParentId":1496,"_id":"Mx2BhkAD4oZtH2xD"}
+{"Id":1486,"Category":"Kaju Specials ","ParentId":0,"_id":"nJp9IlujMQ4UeqIp"}
+{"Id":1487,"Category":"Kaju Varities","ParentId":1486,"_id":"f8WpXRMYarrpIsvp"}
+{"Id":1496,"Category":"FB Websites Cakes ","ParentId":0,"_id":"Pa7BJOlkFfFFam37"}
+{"Id":1502,"Category":"Valentine's Day Specials ","ParentId":0,"_id":"QClKSDQwOgroNc8M"}
+{"Id":1503,"Category":"Valentine Spl Cakes ","ParentId":1502,"_id":"bSXnjXDC7ADWy0ko"}
+{"Id":1552,"Category":"FB Scotch Special Cakes","ParentId":0,"_id":"LvSAJ3Aqh1NQv5OA"}
+{"Id":1553,"Category":"Scotch Special Cakes ","ParentId":1552,"_id":"ZWpCb5l9FZKBD4rs"}
+{"Id":1554,"Category":"Scotch Specials","ParentId":136,"_id":"GrCh1Tl0HblfmVxF"}
+{"Id":1555,"Category":"Choco Specials","ParentId":136,"_id":"1v55yL8VkET2Q3nr"}
+{"$$deleted":true,"_id":"16EUoNjSY61BNQDG"}
+{"$$deleted":true,"_id":"1v55yL8VkET2Q3nr"}
+{"$$deleted":true,"_id":"2P3hryy8c1QtkLpf"}
+{"$$deleted":true,"_id":"2x4yZe7tEXGpUAtF"}
+{"$$deleted":true,"_id":"3u7b1I2NGnL6z6zd"}
+{"$$deleted":true,"_id":"4AnThYjZa56uLezJ"}
+{"$$deleted":true,"_id":"4iDgG7gNOqjQALk6"}
+{"$$deleted":true,"_id":"5t610lpuJnYqUPvz"}
+{"$$deleted":true,"_id":"8qFu6J0NIOO1Min2"}
+{"$$deleted":true,"_id":"91inEfNbYX0IM1kP"}
+{"$$deleted":true,"_id":"9KZBSHqRU1TFzEij"}
+{"$$deleted":true,"_id":"9O0jrBnfNhctfrp5"}
+{"$$deleted":true,"_id":"9cj0J9zZShy64Igt"}
+{"$$deleted":true,"_id":"9fQu98juwCrKuKn1"}
+{"$$deleted":true,"_id":"Ahe54RlTxRWPsjl5"}
+{"$$deleted":true,"_id":"Aq2FuiapWdszTi0w"}
+{"$$deleted":true,"_id":"B2wN39iF2L3MygxJ"}
+{"$$deleted":true,"_id":"BwYLqi94Vq1BOQeD"}
+{"$$deleted":true,"_id":"DToAfk2CpxWF8Zhb"}
+{"$$deleted":true,"_id":"DeG3WuYfes2jBQpo"}
+{"$$deleted":true,"_id":"GrCh1Tl0HblfmVxF"}
+{"$$deleted":true,"_id":"H3j2u5I3waCJ6H7A"}
+{"$$deleted":true,"_id":"JUUiMqrlwpRHfhWU"}
+{"$$deleted":true,"_id":"KjehP74zaHgfgBHB"}
+{"$$deleted":true,"_id":"KvES7Z397viFQB1Q"}
+{"$$deleted":true,"_id":"LRtNfhlQ7Y6qbXlM"}
+{"$$deleted":true,"_id":"LdGauWsofNxGBGIU"}
+{"$$deleted":true,"_id":"LgyGOxJm0fmvssar"}
+{"$$deleted":true,"_id":"LvSAJ3Aqh1NQv5OA"}
+{"$$deleted":true,"_id":"LzDaWcJSh7VWYl3h"}
+{"$$deleted":true,"_id":"Mx2BhkAD4oZtH2xD"}
+{"$$deleted":true,"_id":"Pa7BJOlkFfFFam37"}
+{"$$deleted":true,"_id":"Q2ZhTzaM9Ls0RIm7"}
+{"$$deleted":true,"_id":"QClKSDQwOgroNc8M"}
+{"$$deleted":true,"_id":"QFLevQK5tRRbkhEC"}
+{"$$deleted":true,"_id":"TR3JAT2z4v7baivn"}
+{"$$deleted":true,"_id":"UXUc7XjlCiq6rrK7"}
+{"$$deleted":true,"_id":"XPzl9hbBuKl89bSU"}
+{"$$deleted":true,"_id":"Xi1sDBu5UZIvRBEf"}
+{"$$deleted":true,"_id":"XvFmCKto6vV52jOm"}
+{"$$deleted":true,"_id":"YqQMwISpbw2douBi"}
+{"$$deleted":true,"_id":"ZWpCb5l9FZKBD4rs"}
+{"$$deleted":true,"_id":"bSXnjXDC7ADWy0ko"}
+{"$$deleted":true,"_id":"bkqhVIj0rwZv6Fa7"}
+{"$$deleted":true,"_id":"bwqjp2tgS9btPtZO"}
+{"$$deleted":true,"_id":"cComo8Q7KNtBqHyU"}
+{"$$deleted":true,"_id":"dJnmgmFYNtPLlaNz"}
+{"$$deleted":true,"_id":"eB8qa0MqEdb0syIl"}
+{"$$deleted":true,"_id":"eOP3p7e2z284Km54"}
+{"$$deleted":true,"_id":"eXzSlQBCyVWOczDX"}
+{"$$deleted":true,"_id":"f8WpXRMYarrpIsvp"}
+{"$$deleted":true,"_id":"gmuazM9rePz0A8wb"}
+{"$$deleted":true,"_id":"gv9GyzPKnFOM264w"}
+{"$$deleted":true,"_id":"i18xpTw9niT5JDim"}
+{"$$deleted":true,"_id":"k0k9lPUbjgvmvtw6"}
+{"$$deleted":true,"_id":"k5jef2bctfStsJmI"}
+{"$$deleted":true,"_id":"kkxWol3jTD9g7V2M"}
+{"$$deleted":true,"_id":"kpDS1L2Yot5hk1iQ"}
+{"$$deleted":true,"_id":"mZUIwPxfZxQDEWJn"}
+{"$$deleted":true,"_id":"nJp9IlujMQ4UeqIp"}
+{"$$deleted":true,"_id":"naN0jjoeniKXtDKO"}
+{"$$deleted":true,"_id":"ouq0AwKMt9VO0kD1"}
+{"$$deleted":true,"_id":"pH5OjmcMOKN4oBGe"}
+{"$$deleted":true,"_id":"pX77vEQgNozNwAt2"}
+{"$$deleted":true,"_id":"r411d6XZow54pJ6N"}
+{"$$deleted":true,"_id":"tL5pHpMYGbh54b3F"}
+{"$$deleted":true,"_id":"tOdeCAXOodTYrTys"}
+{"$$deleted":true,"_id":"uI9VuE6AQRukaY5C"}
+{"$$deleted":true,"_id":"w0cQkERao5OUvp8p"}
+{"$$deleted":true,"_id":"wyzHjOCom8RwEySV"}
+{"$$deleted":true,"_id":"yJBTxmcWYaVStVAI"}
+{"$$deleted":true,"_id":"zwapVnmSaRfdfbVP"}
+{"Id":24,"Category":"CAKES","ParentId":0,"_id":"em94CSlBtEbVPofu"}
+{"Id":25,"Category":"PASTRY","ParentId":24,"_id":"3DqhKbFIpSjtLMqD"}
+{"Id":26,"Category":"BIRTHDAY CAKES","ParentId":24,"_id":"yJ8jfL3JHxaAYg7R"}
+{"Id":27,"Category":"CADBURY","ParentId":0,"_id":"sis2yInXyOMltaLA"}
+{"Id":28,"Category":"CHOCOLATES DEL","ParentId":27,"_id":"u2KkWejPbpQtNwcA"}
+{"Id":29,"Category":"SWEETS","ParentId":0,"_id":"EZYD5fXDO97rbPpf"}
+{"Id":30,"Category":"MILK SWEETS","ParentId":29,"_id":"z5lSg0VAdrqRVR95"}
+{"Id":31,"Category":"OTHER SWEETS","ParentId":29,"_id":"ERfmSJj16AplNbHO"}
+{"Id":32,"Category":"GHEE SWEETS","ParentId":29,"_id":"dNygl2o1LtOwl5zC"}
+{"Id":33,"Category":"BENGALI SWEETS","ParentId":29,"_id":"PFEJK6l3vq54spQI"}
+{"Id":34,"Category":"KAJU SWEETS","ParentId":29,"_id":"nHTtw4kLQCrIdVlJ"}
+{"Id":35,"Category":"KARUPATTI SWEETS","ParentId":29,"_id":"4PcQHZSmZ6O1H8ps"}
+{"Id":36,"Category":"NATTU SAKKARAI SWEETS","ParentId":29,"_id":"1Rkf8tkPuHgrEUWV"}
+{"Id":37,"Category":"SAVORIES","ParentId":0,"_id":"bZY8MKBM1O5IpfuS"}
+{"Id":38,"Category":"OTHER SAVORIES","ParentId":37,"_id":"WOMA8eIHvGBQr4VP"}
+{"Id":39,"Category":"MURUKKU","ParentId":37,"_id":"inqEsOMmF49scfLC"}
+{"Id":40,"Category":"CHIPS","ParentId":37,"_id":"D1IMnOQ5rXRLQiJm"}
+{"Id":43,"Category":"BAKERY","ParentId":0,"_id":"KGCUVceXTtYf5Z66"}
+{"Id":45,"Category":"BREAD","ParentId":43,"_id":"e7SsqpM5whb2qZP1"}
+{"Id":46,"Category":"COOKIES","ParentId":43,"_id":"CI1eHTsVW11S2vku"}
+{"Id":47,"Category":"STORE","ParentId":0,"_id":"M3khNM1bT2J68CjE"}
+{"Id":48,"Category":"ACCESSORIES","ParentId":47,"_id":"A39n0dmMwLyNfCtp"}
+{"Id":49,"Category":"RAW SPL ","ParentId":47,"_id":"LT1Bh4jiFeBH7l6u"}
+{"Id":50,"Category":"TEA SPL","ParentId":0,"_id":"zWVH6XRXZL0POItW"}
+{"Id":56,"Category":"DESSERTS","ParentId":0,"_id":"H4eoP94hsiTVFnsX"}
+{"Id":57,"Category":"ICE CREAMS","ParentId":56,"_id":"W3eUCSBZZUHMaJED"}
+{"Id":63,"Category":"CHOCOLATES","ParentId":0,"_id":"zCT5lwIlERtKkvNW"}
+{"Id":64,"Category":"HOME MADE CHOCOLATE","ParentId":63,"_id":"TfriDqoJDaHGuxng"}
+{"Id":67,"Category":"OTHERS (50%)","ParentId":29,"_id":"X09BAlOHH07Khzk2"}
+{"Id":98,"Category":"OTHER SWEETS 1 PCS","ParentId":29,"_id":"HeascVSTrr4CCnbR"}
+{"Id":123,"Category":"PACKED SAVOURIES","ParentId":37,"_id":"qziHJNKYYYQhQTcG"}
+{"Id":136,"Category":"Cakes 1 Kg + 1/2 Kg Extra Free","ParentId":0,"_id":"XGM4pYhrZDjYVVp3"}
+{"Id":137,"Category":"Fresh Cream Cakes 1 Kg + (1/2 Kg Free)","ParentId":136,"_id":"0ihIUAhSR4bD2yQM"}
+{"Id":138,"Category":"Dry Fruits Spl Cakes 1 Kg + (1/2 Kg Free)","ParentId":136,"_id":"XJ98zu1fRWBMuGC8"}
+{"Id":139,"Category":"Fresh Cream Cakes 1/2 Kg","ParentId":270,"_id":"zc6froeAyoZ7HGq0"}
+{"Id":140,"Category":"Dry Fruits Spl Cakes 1/2 Kg","ParentId":270,"_id":"YzmpmbkJDtnfnleX"}
+{"Id":141,"Category":"Pastries and Dry Cakes","ParentId":0,"_id":"AIKOG8Dx4B7vkFKJ"}
+{"Id":142,"Category":"Pastry","ParentId":141,"_id":"zcUdFkafywyBPSrv"}
+{"Id":143,"Category":"Dry Cakes 250 Grams","ParentId":141,"_id":"XH1c5tRa00GCue07"}
+{"Id":144,"Category":"Sweets","ParentId":0,"_id":"4owhINog98RwH3Gc"}
+{"Id":145,"Category":"Ghee And Milk Sweets","ParentId":144,"_id":"uyhJtKxd3OlGqsDC"}
+{"Id":146,"Category":"Traditional Sweets","ParentId":144,"_id":"LEeEigy76CYxjONp"}
+{"Id":147,"Category":"Bengali Sweets","ParentId":144,"_id":"YdLpC6cgMfsrFxF6"}
+{"Id":148,"Category":"Savories","ParentId":0,"_id":"Ta5hk6gK2LKyLJdJ"}
+{"Id":149,"Category":"Chips","ParentId":148,"_id":"xqNac3glWYQuL3mm"}
+{"Id":150,"Category":"Murukku","ParentId":148,"_id":"BuSkdYBmUv6aRWcr"}
+{"Id":151,"Category":"Other Savories","ParentId":148,"_id":"TEolXxamqT8fdflp"}
+{"Id":152,"Category":"Combos","ParentId":0,"_id":"LNLKXPmNHHUWB9Vf"}
+{"Id":184,"Category":"Bread","ParentId":141,"_id":"NqDgFWB1M5VgjCq0"}
+{"Id":270,"Category":"Cakes 1/2 Kg","ParentId":0,"_id":"MJgGL81eGYIA1Kpk"}
+{"Id":292,"Category":"FB Combos","ParentId":152,"_id":"EkkHXFEuXtLyLgwp"}
+{"Id":297,"Category":"Eggless Cakes 1 Kg + (1/2 Kg Free)","ParentId":299,"_id":"4mYXpUF3JY27bHNN"}
+{"Id":298,"Category":"Eggless Cakes 1/2 Kg ","ParentId":299,"_id":"RRvvgfZpK1oUKGBN"}
+{"Id":299,"Category":"Eggless Cakes ","ParentId":0,"_id":"LPqz73ugdyWxvDnv"}
+{"Id":341,"Category":"Other Baking Products  ","ParentId":141,"_id":"FdKqfSnSUM791sHn"}
+{"Id":558,"Category":"FB POS Cakes ","ParentId":0,"_id":"ZG3pBHBQZJ0WERaQ"}
+{"Id":559,"Category":"FB Fresh Cream Cakes","ParentId":558,"_id":"aYjSldeNPydrNl53"}
+{"Id":560,"Category":"FB Nutty Spl Blast Cakes ","ParentId":558,"_id":"kU9bZLEP6CK3jSuK"}
+{"Id":845,"Category":"Valentine Cakes ","ParentId":1496,"_id":"3xHmThiAsdVAU0qv"}
+{"Id":846,"Category":"Birthday","ParentId":1496,"_id":"db4tZrd6Br43IVGD"}
+{"Id":847,"Category":"Kids Cake ","ParentId":1496,"_id":"dF2cA0n4KWJs1Vog"}
+{"Id":848,"Category":"Occassions ","ParentId":1496,"_id":"3LG34qu8Ltxw8akg"}
+{"Id":849,"Category":"Designer ","ParentId":1496,"_id":"ck3XVgDHwvmDVgJT"}
+{"Id":1486,"Category":"Kaju Specials ","ParentId":0,"_id":"YwotC3D62yP5UmOj"}
+{"Id":1487,"Category":"Kaju Varities","ParentId":1486,"_id":"KpIwIsulLixToWzA"}
+{"Id":1496,"Category":"FB Websites Cakes ","ParentId":0,"_id":"7Aner1kJ4pUwKH5M"}
+{"Id":1502,"Category":"Valentine's Day Specials ","ParentId":0,"_id":"6bUfvEvWXChUZDbT"}
+{"Id":1503,"Category":"Valentine Spl Cakes ","ParentId":1502,"_id":"zK7n3NjBOH0Gylhi"}
+{"Id":1552,"Category":"FB Scotch Special Cakes","ParentId":0,"_id":"9UD6zposnwIJOntX"}
+{"Id":1553,"Category":"Scotch Special Cakes ","ParentId":1552,"_id":"IadIDoRO1S6fwDUq"}
+{"Id":1554,"Category":"Scotch Specials","ParentId":136,"_id":"WjEzAYi1so8NglEh"}
+{"Id":1555,"Category":"Choco Specials","ParentId":136,"_id":"Ih2rZbgUYQthnw29"}

@@ -1,0 +1,10 @@
+{"UserId":22,"Name":"MOHAN.S","Role":"Manager","RoleId":2,"Pin":1111,"_id":"8t1Nd81NhmA2naVY"}
+{"UserId":18,"Name":"Karthick","Role":"Administrator","RoleId":1,"Pin":1234,"_id":"cwc08ucKFzzLYLTi"}
+{"UserId":49,"Name":"Test","Role":"Administrator","RoleId":1,"Pin":1408,"_id":"1iXDdsPIy0VEyFKA"}
+{"$$deleted":true,"_id":"1iXDdsPIy0VEyFKA"}
+{"$$deleted":true,"_id":"8t1Nd81NhmA2naVY"}
+{"$$deleted":true,"_id":"cwc08ucKFzzLYLTi"}
+{"UserId":49,"Name":"Test","Role":"Administrator","RoleId":1,"Pin":1408,"_id":"RdgTN1xHTX57Y282"}
+{"UserId":18,"Name":"Karthick","Role":"Administrator","RoleId":1,"Pin":1234,"_id":"8JJytEOD0nn8IDOA"}
+{"UserId":123,"Name":"Master","Role":"Administrator","RoleId":1,"Pin":229,"_id":"mTyj1HtSpvD5Jnb5"}
+{"UserId":126,"Name":"Mater","Role":"Administrator","RoleId":1,"Pin":2299,"_id":"2kAdqhrbnFeXdkZP"}

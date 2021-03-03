@@ -1,0 +1,6 @@
+{"Id":2,"Description":"Packaging Charge","ChargeType":2,"ChargeValue":10,"TaxGroupId":8,"_id":"Kzef77HesQ6vpZQc"}
+{"Id":6,"Description":"Delivery Charge","ChargeType":2,"ChargeValue":20,"TaxGroupId":8,"_id":"i6axEleWfVDFOBMt"}
+{"$$deleted":true,"_id":"Kzef77HesQ6vpZQc"}
+{"$$deleted":true,"_id":"i6axEleWfVDFOBMt"}
+{"Id":2,"Description":"Packaging Charge","ChargeType":2,"ChargeValue":10,"TaxGroupId":8,"_id":"ohfovwja567K9kuo"}
+{"Id":6,"Description":"Delivery Charge","ChargeType":2,"ChargeValue":20,"TaxGroupId":8,"_id":"mx2jjcPHnDbWHXet"}
